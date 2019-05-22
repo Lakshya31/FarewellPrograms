@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a4ad08d-4817-4fe0-b42f-840794a05fb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Farewell.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MathShiz/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA" beforeDir="false" afterPath="$PROJECT_DIR$/../GA" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/00626222.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/05952426.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/06246935.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/1 new.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/LITsurvey.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/Lit survey.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GA Mini Project Theory/reacts .docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IR_Project" beforeDir="false" afterPath="$PROJECT_DIR$/../IR_Project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InfoRetrieval" beforeDir="false" afterPath="$PROJECT_DIR$/../InfoRetrieval" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MathProjectData" beforeDir="false" afterPath="$PROJECT_DIR$/../MathProjectData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MathShiz/.idea/MathShiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MathShiz/.idea/MathShiz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MathShiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MathShiz/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MathShiz/Image Production.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MathShiz/Image Production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Farewell.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Farewell.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PPTShiz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+            <state relative-caret-position="359">
+              <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -67,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/This is for TDS.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-142">
+            <state relative-caret-position="2520">
               <caret line="126" column="66" selection-start-line="126" selection-start-column="66" selection-end-line="126" selection-end-column="66" />
             </state>
           </provider>
@@ -88,7 +68,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/PPTShiz.py" root0="SKIP_INSPECTION" />
@@ -101,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1120" />
     <option name="y" value="15" />
     <option name="width" value="820" />
@@ -115,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,10 +106,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts/python.exe" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -187,8 +168,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -209,14 +189,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/This is for TDS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142">
-          <caret line="126" column="66" selection-start-line="126" selection-start-column="66" selection-end-line="126" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Order.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -231,10 +209,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/This is for TDS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="126" column="66" selection-start-line="126" selection-start-column="66" selection-end-line="126" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PPTShiz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
+        <state relative-caret-position="359">
+          <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
